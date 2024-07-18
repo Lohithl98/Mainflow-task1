@@ -13,6 +13,9 @@ Welcome to the Mobl Tech Landing Page repository. This project features a basic 
 
 ## Overview
 This lading page designed as a Task completion provieded by Mainflow Services and Technologies company
+SAMPLE SCREENSHOT
+![image](https://github.com/user-attachments/assets/5433a9c5-3847-485e-a4e7-eb01186a4f45)
+
 
 ## Features
 - Fixed header with navigation links
