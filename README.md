@@ -35,6 +35,3 @@ To run this project locally, follow these steps:
 
 ## Usage
 Feel free to use this landing page template for your own projects. You can customize the content and styling to fit your needs.
-
-## Contributing
-Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
